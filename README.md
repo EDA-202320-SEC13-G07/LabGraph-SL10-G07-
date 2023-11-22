@@ -34,7 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Andres Felipe Santana, <af.santana@uniandes.edu.co>, 202311502
 2. Santiago Gomez, <s.gomezp2@uniandes.edu.co>, 202221885
-3. Kevin Martinez, <k.martinezz@uniandes.edu.co>, 202315510 
+3. Kevin Alfonso Martinez, <k.martinezz@uniandes.edu.co>, 202315510 
 
 [Back to top](#sample-graph)
 
